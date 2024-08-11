@@ -23,3 +23,6 @@ https://entezeetv.fun/bdcast/hls/cdn_ytl.m3u8?id=4193bcd7b265abbc12edbdc7bd19469
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Entertainment", Star Jalsha
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/protv.m3u8?id=12101
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="News", Ekhon
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@ekhontv
